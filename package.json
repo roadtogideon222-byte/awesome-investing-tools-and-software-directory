@@ -1,0 +1,8 @@
+{
+  "name": "awesome-investing-tools-and-software-directory",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-directory.mjs",
+    "check": "node scripts/build-directory.mjs --check"
+  }
+}
